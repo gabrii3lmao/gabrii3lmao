@@ -1,7 +1,7 @@
 # 👋 Olá, bem vindo ao meu perfil.
 ## Me chamo Gabriel Luz e tenho 17 anos.
 
-🎯 Apaixonado por tecnologia e programação desde cedo, com interesse especial em entender como os computadores funcionam por dentro.
+🎯 Apaixonado por tecnologia e programação, com interesse especial em entender como os computadores funcionam por dentro.
 
 :mortar_board: Estudando C++ com foco total na aprendizagem aprofundada sobre arquitetura, lógica e otimização.
 
