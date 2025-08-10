@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, bem vindo ao meu perfil.
+## Me chamo Gabriel Luz e tenho 17 anos.
 
-<!--
-**gabrii3lmao/gabrii3lmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Apaixonado por tecnologia e programação desde cedo, com interesse especial em entender como os computadores funcionam por dentro.
 
-Here are some ideas to get you started:
+:mortar_board: Estudando C++ com foco total na aprendizagem aprofundada sobre arquitetura, lógica e otimização.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Aprendendo a base da programação, com introdução à orientação a objetos.
+
+📚 Sempre buscando criar projetos práticos para reforçar o aprendizado.
+
+⚡ Interesse em desenvolvimento de aplicações desktop e sistemas que envolvam processamento de dados e automação.
+
+:-1: Pouca experiência com front-end, apenas o básico de HTML, CSS e JS, mas sempre aberto a aprender novas tecnologias.
+## Algumas tecnologias que uso:
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height = "70px" width = "70px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height = "70px" width = "70px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height = "70px" width = "70px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "70px" width = "70px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height = "70px" width = "70px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height = "70px" width = "70px" />
+
+          
+          
+          
+          
+          
+
