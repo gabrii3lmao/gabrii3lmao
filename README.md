@@ -1,21 +1,22 @@
-# 👋 Olá, bem vindo ao meu perfil.
-## Me chamo Gabriel Luz e tenho 17 anos.
+# 👋 Welcome to my profile.
 
-🎯 Apaixonado por tecnologia e programação, com interesse especial em entender como os computadores funcionam por dentro.
+## My name is Gabriel Luz and I'm 17 years old.
 
-:mortar_board: Estudando C++ com foco total na aprendizagem aprofundada sobre arquitetura, lógica e otimização.
+🎯 Passionate about technology and programming, with a special interest in understanding how computers work under the hood.
 
-🌱 Aprendendo a base da programação, com introdução à orientação a objetos.
+🎓 Currently studying C++ with a focus on deep learning about computer architecture, logic, and optimization.
 
-📚 Sempre buscando criar projetos práticos para reforçar o aprendizado.
+🌱 Learning programming fundamentals, including introduction to object-oriented programming.
 
-⚡ Interesse em desenvolvimento de aplicações desktop e sistemas que envolvam processamento de dados e automação.
-## Algumas tecnologias que uso:
+📚 Always seeking to build practical projects to reinforce learning.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height = "70px" width = "70px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height = "70px" width = "70px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "70px" width = "70px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height = "70px" width = "70px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height = "70px" width = "70px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" height = "70px" width = "70px"/>
-          
-          
-          
-          
-          
+⚡ Interested in desktop application development and systems involving data processing and automation.
 
+## Technologies I work with:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="70" width="70" alt="Arduino" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="70" width="70" alt="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="70" width="70" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="70" width="70" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="70" width="70" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" height="70" width="70" alt="Ruby" />
