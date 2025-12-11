@@ -1,17 +1,30 @@
 # 👋 Welcome to my profile.
 
-## My name is Gabriel Luz and I'm 17 years old.
+## My name is Gabriel Luz, and I'm 17 years old.
 
-🎯 Passionate about technology and programming, with a special interest in understanding how computers work on low level
+🚀 **Currently training to become a Backend Developer**, focused on building stable, scalable, and well-structured systems.
 
-🎓 Currently studying C++ with a focus on deep learning about computer architecture, logic, and optimization.
+🎓 High school student, continuously learning and improving my technical foundation and problem-solving skills.
 
-🌱 Learning programming fundamentals (algorithms and web)
+💻 Currently studying **JavaScript/Node.js** and strengthening my backend fundamentals, such as:
+- HTTP and REST APIs  
+- Architectural patterns  
+- Data modeling  
+- Clean code and best practices  
 
-📚 Always seeking to build practical projects to reinforce learning.
+🏗️ Highly interested in **Software Architecture**, system design, decoupling, modularity, and maintainable code structures.
 
-## Technologies I work with:
+🌱 In parallel, I study C/C++ to deepen my understanding of:
+- How computers work at a low level  
+- Processor architecture  
+- Memory, pointers, and optimization  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="70" width="70" alt="Arduino" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="70" width="70" alt="C++" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="70" width="70" alt="JavaScript" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="70" width="70" alt="HTML5" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="70" width="70" alt="CSS3" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" height="70" width="70" alt="Ruby" /> <img src="https://devicon-website.vercel.app/api/c/original.svg" width = "70" height = "70" ></img>
+📚 Always building practical projects to solidify my knowledge.
 
+---
 
+## ⚙️ Technologies I work with:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="70" width="70" alt="Arduino" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="70" width="70" alt="C++" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="70" width="70" alt="JavaScript" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="70" width="70" alt="HTML5" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="70" width="70" alt="CSS3" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" height="70" width="70" alt="Ruby" /><img src="https://devicon-website.vercel.app/api/c/original.svg" width="70" height="70" alt="C" />
+
+---
