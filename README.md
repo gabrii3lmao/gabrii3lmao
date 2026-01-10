@@ -15,6 +15,7 @@
 🏗️ Highly interested in **Software Architecture**, system design, decoupling, modularity, and maintainable code structures.
 
 🌱 In parallel, I study C/C++ to deepen my understanding of:
+- Data structures and algorithms (DSA) 
 - How computers work at a low level  
 - Processor architecture  
 - Memory, pointers, and optimization  
