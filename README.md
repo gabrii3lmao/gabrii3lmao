@@ -10,7 +10,7 @@ My main area of study today is **JavaScript with Node.js**, where I focus on bac
 - Application architecture  
 - Data modeling  
 - Clean code and maintainability
-- 
+  
 I’m always working on practical projects to turn theory into real understanding.
 
 ---
