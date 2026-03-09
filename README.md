@@ -1,10 +1,12 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
-# Olá, eu sou o Gabriel Luz 👋 
+<div align="center">
+<h1> Olá, eu sou o Gabriel Luz 👋 </h1>
+</div>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVhZWx5M2Y1cWcwc3h1a2gxc3cxeHUwMHpmYXE2NHhsMTQ0ajI3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4KF8EdNFw6oNsgle3n/giphy.gif" width="500" alt="Fernando Alonso">
 </p>
+
 
 Sou estudante do **Instituto Federal do Piauí**, tenho **18 anos** e meu foco total é me tornar um desenvolvedor Backend de excelência. 
 
