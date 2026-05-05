@@ -14,14 +14,16 @@ Sou estudante do **Instituto Federal do Piauí** (18 anos) e estou focado em me 
 Tenho forte interesse no ecossistema **Node.js**, com foco em **arquitetura de software**, **escalabilidade** e construção de **aplicações robustas e bem estruturadas**.
 
 ### 💡 Atualmente estudando e aplicando:
-- **Protocolo HTTP e APIs RESTful**
-- **Arquitetura de Software (camadas, modularização, boas práticas)**
+- **APIs RESTful, System Design e Arquitetura de Sistemas**
+- **Escalabilidade e Performance de Aplicações**
 - **Modelagem de Dados (SQL e NoSQL)**
 - **Clean Code e Manutenibilidade**
 
 Também exploro **C# / .NET** para ampliar minha visão sobre diferentes ecossistemas 🤓  
 
-Gosto de aprender construindo — transformo ideias em projetos práticos sempre que possível.
+Gosto de aprender construindo. Transformo ideias em projetos práticos sempre que possível.
+
+Se tiver interesse em trabalhar comigo, me mande uma DM no Insta! Sempre estarei à disposição. 
 
 ---
 
