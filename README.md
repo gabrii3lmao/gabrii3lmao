@@ -28,7 +28,7 @@ Se tiver interesse em trabalhar comigo, me mande uma DM no Insta! Sempre estarei
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-
+<p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="64" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="64" title="CSharp"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="64" title=".NET"/>
