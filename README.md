@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <em>"Ações valem mais que palavras — os números abaixo são atualizados em tempo real."</em>
+  <em>"Plan to throw one away; you will, anyhow"</em>
 </p>
 
 <br>
 
 ## Sobre
 
-Backend developer focado em Node.js e TypeScript, estudando [Sua universidade/curso aqui].
+Backend developer focado em Node.js e TypeScript, estudando informática no Instituto Federal do Piauí.
 Atuação voltada para arquitetura de sistemas escaláveis, boas práticas de engenharia e aprofundamento contínuo em system design.
 
 Estudando atualmente: NestJS, PostgreSQL, Redis, Docker, System Design.
@@ -50,7 +50,7 @@ Estudando atualmente: NestJS, PostgreSQL, Redis, Docker, System Design.
   <a href="https://github.com/gabrii3lmao">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://linkedin.com/in/gabrielmluz">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
