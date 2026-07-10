@@ -10,16 +10,12 @@
   <em>"Plan to throw one away; you will, anyhow"</em>
 </p>
 
-<br>
-
 ## Sobre
 
 Backend developer focado em Node.js e TypeScript, estudando informática no Instituto Federal do Piauí.
 Atuação voltada para arquitetura de sistemas escaláveis, boas práticas de engenharia e aprofundamento contínuo em system design.
 
 Estudando atualmente: NestJS, PostgreSQL, Redis, Docker, System Design.
-
-<br>
 
 ## Status
 
