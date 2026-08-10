@@ -35,7 +35,7 @@ Estudando atualmente: NestJS, PostgreSQL, Redis, Docker, System Design.
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,postgres,mongodb,redis,prisma,docker,cs,dotnet,vue,git,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,postgres,mongodb,redis,prisma,docker,cs,dotnet,vue,git,linux,cpp&perline=8" />
 </p>
 
 <br>
