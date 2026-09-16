@@ -24,14 +24,6 @@ Estudando atualmente: NestJS, PostgreSQL, Redis, Docker, System Design.
   <img src="https://streak-stats.demolab.com?user=gabrii3lmao&theme=tokyonight&hide_border=true" />
 </p>
 
-## Atividade recente
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrii3lmao&theme=tokyo-night&hide_border=true" />
-</p>
-
-<br>
-
 ## Stack
 
 <p align="center">
