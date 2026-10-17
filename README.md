@@ -12,10 +12,10 @@
 
 ## Sobre
 
-Backend developer focado em Node.js e TypeScript, estudando informática no Instituto Federal do Piauí.
-Atuação voltada para arquitetura de sistemas escaláveis, boas práticas de engenharia e aprofundamento contínuo em system design.
+Desenvolvedor backend focado em Node.js e TypeScript, técnico em informática pelo Instituto Federal do Piauí.
 
-Estudando atualmente: NestJS, PostgreSQL, Redis, Docker, System Design.
+
+Atuação voltada para arquitetura de sistemas escaláveis, boas práticas de engenharia e aprofundamento contínuo em system design.
 
 ## Status
 
