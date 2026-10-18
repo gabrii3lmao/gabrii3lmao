@@ -6,7 +6,7 @@
 
 Desenvolvedor backend focado em Node.js e TypeScript, técnico em informática pelo Instituto Federal do Piauí.
 
-De vez em quando escrevo alguns artigos para o meu blog e também gosto de contribuir para a comunidade Opensource BR ;) 
+De vez em quando escrevo alguns artigos para o meu blog. Também gosto de contribuir para a comunidade Opensource BR ;) 
 
 ## Status
 
