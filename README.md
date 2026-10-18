@@ -2,23 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Gabriel+Luz;Backend+Developer;Node.js+%2B+TypeScript+%2B+NestJS" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabrii3lmao&style=flat-square&color=00ADB5&label=VISITAS" />
-</p>
-
-<p align="center">
-  <em>"Plan to throw one away; you will, anyhow"</em>
-</p>
-
 ## Sobre
 
 Desenvolvedor backend focado em Node.js e TypeScript, técnico em informática pelo Instituto Federal do Piauí.
 
-
-Atuação voltada para arquitetura de sistemas escaláveis, boas práticas de engenharia e aprofundamento contínuo em system design.
+De vez em quando escrevo alguns artigos para o meu blog e também gosto de contribuir para a comunidade Opensource BR ;) 
 
 ## Status
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gabrii3lmao&theme=tokyonight&hide_border=true" />
@@ -41,4 +31,7 @@ Atuação voltada para arquitetura de sistemas escaláveis, boas práticas de en
   <a href="https://linkedin.com/in/gabrielmluz">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="https://gabrielluz.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfólio-0B6157?style=for-the-badge&logo=firefox&logoColor=white" alt="personal site" />
+</a>
 </p>
