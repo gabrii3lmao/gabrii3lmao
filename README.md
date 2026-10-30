@@ -25,13 +25,16 @@ De vez em quando escrevo alguns artigos para o meu blog. Também gosto de contri
 ## Contato
 
 <p align="center">
-   <a href="mailto:gabrielmluz56@gmail.com">
+  <a href="mailto:gabrielmluz56@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="blank" />
   </a>
   <a href="https://linkedin.com/in/gabrielmluz">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="https://wa.me/558994268109" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
   <a href="https://gabrielluz.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfólio-0B6157?style=for-the-badge&logo=firefox&logoColor=white" alt="personal site" />
-</a>
+    <img src="https://img.shields.io/badge/Portfólio-0B6157?style=for-the-badge&logo=firefox&logoColor=white" alt="personal site" />
+  </a>
 </p>
